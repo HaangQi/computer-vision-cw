@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="pic1">
+    <file>drop-files-here-extra.jpg</file>
+  </qresource>
+</RCC>
